@@ -129,7 +129,7 @@
 </ul>
 <p>注意！部分内容指令已失效</p>
 <h3 id="错误-问题"><a href="#错误-问题" class="headerlink" title="错误/问题"></a>错误/问题</h3><h4 id="网络错误"><a href="#网络错误" class="headerlink" title="网络错误"></a>网络错误</h4><p><img src="/img/17.png" alt="网络错误"><br><img src="/img/42.png" alt="网络错误"><br>如图1右上角，提示 Version info not availiable，Connection error,图2白屏提示找不到文件，这种是典型的网络错误。</p>
-<p>如果你出现网络错误，请挂代理/vpn进行科学上网，如果你没用购买代理服务/vpn，不会如何科学上网，请自行谷歌，或者移步看 <a href="/2018/11/17/蓝灯使用/">蓝灯使用</a> 一文免费使用科学上网服务</p>
+<p>如果你出现网络错误，请挂代理/vpn进行科学上网，如果你没用购买代理服务/vpn，不会如何科学上网，请自行谷歌，或者移步看 <a href="/lantern">蓝灯使用</a> 一文免费使用科学上网服务</p>
 <h4 id="Error：Could-not-copy-files-for-tranquility"><a href="#Error：Could-not-copy-files-for-tranquility" class="headerlink" title="Error：Could not copy files for tranquility"></a>Error：Could not copy files for tranquility</h4><ul>
 <li><p>方法①：启动器右上角/左下角菜单→shared cache→permissions→等待完成→重启启动器</p>
 </li>
