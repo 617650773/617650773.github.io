@@ -11,9 +11,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate">
     <meta name="keywords" content="Fechin,"> 
-    <meta name="description" content="存放一些基本知识教程，方便更新,官网、Steam：建号方式不同就建号方式不同来说，EVE的账号有两种：官网、Steam，你通过什么方式建号的就是什么类型号
-参考：官网注册、下载在Steam上玩EVE
-两种账号有不同之处也有相同之处,"> 
+    <meta name="description" content="存放一些基本知识教程，方便更新,"> 
     <meta name="author" content="QEDSD"> 
     <link rel="alternative" href="atom.xml" title="EVE欧服萌新交流群" type="application/atom+xml"> 
     <link rel="icon" href="/img/favicon.png"> 
@@ -109,8 +107,8 @@
 </ol>
 <p>接下来会跳转到账号登录界面，用你刚才创建的账号就可以登录了，这个账号已经和你的steam账号绑到一块。</p>
 <h4 id="更多"><a href="#更多" class="headerlink" title="更多"></a>更多</h4><ul>
-<li><a href="/2018/11/17/启动器相关/">启动器相关</a></li>
-<li><a href="/2018/11/20/官网、steam、Omega、Alpha区别/">官网、steam、Omega、Alpha区别</a></li>
+<li><a href="/launcher">启动器相关</a></li>
+<li><a href="/difference">官网、steam、Omega、Alpha区别</a></li>
 </ul>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->

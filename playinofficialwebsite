@@ -11,9 +11,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate">
     <meta name="keywords" content="Fechin,"> 
-    <meta name="description" content="存放一些基本知识教程，方便更新,官网、Steam：建号方式不同就建号方式不同来说，EVE的账号有两种：官网、Steam，你通过什么方式建号的就是什么类型号
-参考：官网注册、下载在Steam上玩EVE
-两种账号有不同之处也有相同之处,"> 
+    <meta name="description" content="存放一些基本知识教程，方便更新,"> 
     <meta name="author" content="QEDSD"> 
     <link rel="alternative" href="atom.xml" title="EVE欧服萌新交流群" type="application/atom+xml"> 
     <link rel="icon" href="/img/favicon.png"> 
@@ -45,7 +43,7 @@
             <h4 id="前置提示："><a href="#前置提示：" class="headerlink" title="前置提示："></a>前置提示：</h4><p>官网账号可以用别人的邀请链接进行注册，建号就送25万自由技能点。如果你用现金充值Omega时间，邀请人（给你链接的人）会收到等价于大半月卡钱的350plex和加速器作为奖励。一般情况下，邀请人都会把这些东西反回给被邀请人（用别人链接的你），这样你就可以获得一大笔启动资金。</p>
 <p>怎样获得邀请链接？找一些可靠的老玩家要，公司/军团/联盟CEO、<em>EVE欧服吧</em>  大吧主小吧主、EVE相关Q群群主都会提供邀请链接，这些人也比较可靠。使用别人链接注册并冲卡后，主动去找给你链接的人要奖励，邀请人获得邀请奖励是无法知道是谁冲卡的，所以你需要主动去要。</p>
 <p>已注册完成的账号不可再用邀请链接，必须在注册前使用。</p>
-<h3 id="账号注册"><a href="#账号注册" class="headerlink" title="账号注册"></a>账号注册</h3><p>首先登陆EVE官网：<em><a href="http://www.eveonline.com" target="_blank" rel="noopener">www.eveonline.com</a></em><br>（若打不开请科学上网，不会科学上网可移步看 <a href="/2018/11/17/蓝灯使用/">蓝灯使用</a> ）</p>
+<h3 id="账号注册"><a href="#账号注册" class="headerlink" title="账号注册"></a>账号注册</h3><p>首先登陆EVE官网：<em><a href="http://www.eveonline.com" target="_blank" rel="noopener">www.eveonline.com</a></em><br>（若打不开请科学上网，不会科学上网可移步看 <a href="/lantern">蓝灯使用</a> ）</p>
 <p>点击<em>PLAY FREE</em><br><img src="/img/1.png" alt="点击图中的大字PLAY FREE"></p>
 <p>然后来到填写注册账号信息页面</p>
 <p>注意！！！不要用浏览器的翻译网页功能翻译填写账号信息页面，翻译会导致即使人机检测过了也无法点击确认<br><img src="/img/2.png" alt="填写账号信息"></p>
@@ -67,8 +65,8 @@
 <li>注意区分游戏时间和Plex！游戏时间是直接给你升级Omega，plex是游戏内一种物品，可以游戏里市场上卖掉换isk或者500plex兑换一个月的Omega时间</li>
 </ul>
 <h4 id="更多"><a href="#更多" class="headerlink" title="更多"></a>更多</h4><ul>
-<li><a href="/2018/11/17/启动器相关/">启动器相关</a></li>
-<li><a href="/2018/11/20/官网、steam、Omega、Alpha区别/">官网、steam、Omega、Alpha区别</a></li>
+<li><a href="/launcher">启动器相关</a></li>
+<li><a href="/difference">官网、steam、Omega、Alpha区别</a></li>
 </ul>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
