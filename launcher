@@ -119,8 +119,19 @@
 <li><p>某些地方的网络会出现启动器下载龟速，这时贴心的CCP就给了你一个更好的解决办法：用你喜欢的下载工具（如迅雷）下载离线安装包！</p>
 </li>
 </ul>
-<p>在启动器下载页面可以下载离线安装包,大小9G左右。<br><a href="https://www.eveonline.com/download" target="_blank" rel="noopener">启动器下载页面</a><br><img src="/img/14.png" alt="离线安装包下载链接"></p>
-<p>下载离线安装包后，把离线安装包和启动器exe程序文件放在同一个目录下，然后打开启动器exe安装程序，此时启动器会自动识别出离线安装包一块安装，这样安装完后你只需再稍微更新一下就可以了，不用在启动器里等待下载完整的客户端。</p>
+<p>在启动器下载页面可以下载离线安装包,大小10G左右。</p>
+<p><img src="/img/14.png" alt="启动器、离线安装包下载链接"></p>
+<p>启动器：</p>
+<ul>
+<li><a href="https://www.eveonline.com/download" target="_blank" rel="noopener">官网下载</a></li>
+<li><a href="https://jq.qq.com/?_wv=1027&amp;k=5VccgxU" target="_blank" rel="noopener">QQ群文件</a></li>
+</ul>
+<p>离线安装包：</p>
+<ul>
+<li><a href="https://www.eveonline.com/download" target="_blank" rel="noopener">官网下载</a></li>
+<li><a href="https://pan.baidu.com/s/1LbteBIg5EJEsu7HwQ3ET4A" target="_blank" rel="noopener">百度云下载</a>（19.1.16上传）</li>
+</ul>
+<p>下载离线安装包后，把离线安装包 <em>EVEResources.7z</em> 和启动器exe程序文件放在同一个目录下，然后打开启动器exe安装程序，此时启动器会自动识别出离线安装包一块安装，这样安装完后你只需再稍微更新一下就可以了，不用在启动器里等待下载完整的客户端。</p>
 <h3 id="服务器"><a href="#服务器" class="headerlink" title="服务器"></a>服务器</h3><p>前置说明：欧服就是世界服，国外仅此一个服务器，因为服务器是在欧洲的，所以大家习惯性说世界服为欧服。</p>
 <p>启动器默认就是欧服的正式服（代号宁静）<br><img src="/img/33.png" alt="服务器列表"></p>
 <ul>
@@ -147,6 +158,7 @@
 <li>可能缓存文件出问题，缓存设置里检验一遍缓存文件</li>
 </ul>
 <h4 id="steam启动启动器没有账号"><a href="#steam启动启动器没有账号" class="headerlink" title="steam启动启动器没有账号"></a>steam启动启动器没有账号</h4><p>通过steam玩EVE，第一次启动时会自动创建一个带 <em>steam::</em> 前缀的账号ID，如果没有，请多次重启启动器，还是没用，重启steam。</p>
+<h4 id="steam启动eve完全没有反应"><a href="#steam启动eve完全没有反应" class="headerlink" title="steam启动eve完全没有反应"></a>steam启动eve完全没有反应</h4><p>可能是steam未成功自动安装游戏相关环境，你的电脑缺少相关文件所以打不开。手动定位到你的eve安装目录并双击evelauncher.exe，应该会提示缺少什么，根据提示缺少的内容自行百度下载即可。</p>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">
